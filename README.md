@@ -1,2 +1,2 @@
 # Main
-Collection of my code for CMSC 203
+Collection of my code for CS classes
