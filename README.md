@@ -1,2 +1,2 @@
 # Main
-Collection of my code for CS classes
+Collection of my code for CS classes & personal projects
